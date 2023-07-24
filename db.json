@@ -1,0 +1,476 @@
+{
+  "deck": [
+    {
+      "_id": {
+        "$oid": "6424a94283600bac6b3b7ff9"
+      },
+      "data-hw": "adult",
+      "data-ox3000": "a2",
+      "data-ox5000": "a2",
+      "url-id": "adult_2",
+      "pos": "adjective",
+      "belong-to": "a2",
+      "senses": {
+        "sense1": {
+          "define": "fully grown or developed",
+          "examples": [
+            "preparing young people for adult life  ",
+            "He was a healthy young adult male . ",
+            "the adult population ",
+            "adult monkeys ",
+            "She spent her entire adult life caring for others. "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424a94283600bac6b3b7ffa"
+      },
+      "data-hw": "adult",
+      "data-ox3000": "a1",
+      "data-ox5000": "a1",
+      "url-id": "adult_1",
+      "pos": "noun",
+      "belong-to": "a1",
+      "senses": {
+        "sense1": {
+          "define": "a fully grown person who is legally responsible for their actions",
+          "examples": [
+            "Children must be accompanied by an adult. ",
+            "I simply can't believe that responsible adults allowed a child to wander the streets. ",
+            "Why can't you two act like civilized adults? ",
+            "The obesity rate among adults has actually increased. "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424a9e583600bac6b3b861b"
+      },
+      "data-hw": "ear",
+      "data-ox3000": "a1",
+      "data-ox5000": "a1",
+      "url-id": "ear",
+      "pos": "noun",
+      "belong-to": "a1",
+      "senses": {
+        "sense1": {
+          "define": "either of the organs on the sides of the head that you hear with",
+          "examples": [
+            "the left/right ear ",
+            "He put his hands over his ears. ",
+            "She's had her ears pierced . ",
+            "The elephant flapped its ears. ",
+            "She whispered something in his ear. ",
+            "He was now screaming in my ear. ",
+            "He was always there with a sympathetic ear  (= was always willing to listen to people) . ",
+            "an ear infection  "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424aa3c83600bac6b3b895f"
+      },
+      "data-hw": "high",
+      "data-ox3000": "a1",
+      "data-ox5000": "a1",
+      "url-id": "high_1",
+      "pos": "adjective",
+      "belong-to": "a1",
+      "senses": {
+        "sense1": {
+          "define": "measuring a long distance from the bottom to the top",
+          "examples": [
+            "What's the highest mountain in the US? ",
+            "The house has a high wall all the way round it. ",
+            "shoes with high heels ",
+            "He has a round face with a high forehead. "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424aa3c83600bac6b3b8960"
+      },
+      "data-hw": "high",
+      "data-ox3000": "a2",
+      "data-ox5000": "a2",
+      "url-id": "high_2",
+      "pos": "adverb",
+      "belong-to": "a2",
+      "senses": {
+        "sense1": {
+          "define": "at or to a position or level that is a long way up from the ground or from the bottom",
+          "examples": [
+            "to climb/jump/leap high ",
+            "I can't jump any higher. ",
+            "An eagle soared high overhead. ",
+            "His desk was piled high with papers. ",
+            "The castle sits high above the wooded valley. ",
+            "A plane flew high above. "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424aa3d83600bac6b3b8961"
+      },
+      "data-hw": "high",
+      "data-ox3000": "b2",
+      "data-ox5000": "b2",
+      "url-id": "high_3",
+      "pos": "noun",
+      "belong-to": "b2",
+      "senses": {
+        "sense1": {
+          "define": "the highest level or number",
+          "examples": [
+            "to hit/reach a high  ",
+            "Exports are currently at record highs . ",
+            "Profits reached an all-time high last year. "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424aa8283600bac6b3b8c0a"
+      },
+      "data-hw": "many",
+      "data-ox3000": "a1",
+      "data-ox5000": "a1",
+      "url-id": "many",
+      "pos": "determiner",
+      "belong-to": "a1",
+      "senses": {
+        "sense1": {
+          "define": "used with plural nouns and verbs, especially in negative sentences or in more formal English, to mean ‘a large number of’. Also used in questions to ask about the size of a number, and with ‘as’, ‘so’ and ‘too’.",
+          "examples": [
+            "We don't have very many copies left. ",
+            "You can't have one each. We haven't got many. ",
+            "Many people feel that the law should be changed. ",
+            "Many of those present disagreed. ",
+            " How many children do you have? ",
+            "There are too many mistakes in this essay. ",
+            "He made ten mistakes in as many  (= in ten) lines. ",
+            "New drivers have twice as many accidents as experienced drivers. ",
+            "Don't take so many . ",
+            "I've known her for a great many  (= very many) years. ",
+            "Even if one person is hurt that is one too many . ",
+            "It was one of my many mistakes. ",
+            "a many-headed monster "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424aa8283600bac6b3b8c0b"
+      },
+      "data-hw": "many",
+      "data-ox3000": "a1",
+      "data-ox5000": "a1",
+      "url-id": "many",
+      "pos": "pronoun",
+      "belong-to": "a1",
+      "senses": {
+        "sense1": {
+          "define": "used with plural nouns and verbs, especially in negative sentences or in more formal English, to mean ‘a large number of’. Also used in questions to ask about the size of a number, and with ‘as’, ‘so’ and ‘too’.",
+          "examples": [
+            "We don't have very many copies left. ",
+            "You can't have one each. We haven't got many. ",
+            "Many people feel that the law should be changed. ",
+            "Many of those present disagreed. ",
+            " How many children do you have? ",
+            "There are too many mistakes in this essay. ",
+            "He made ten mistakes in as many  (= in ten) lines. ",
+            "New drivers have twice as many accidents as experienced drivers. ",
+            "Don't take so many . ",
+            "I've known her for a great many  (= very many) years. ",
+            "Even if one person is hurt that is one too many . ",
+            "It was one of my many mistakes. ",
+            "a many-headed monster "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424aa8a83600bac6b3b8c54"
+      },
+      "data-hw": "meet",
+      "data-ox3000": "a1",
+      "data-ox5000": "a1",
+      "url-id": "meet_1",
+      "pos": "verb",
+      "belong-to": "a1",
+      "senses": {
+        "sense1": {
+          "define": "to be in the same place as somebody by chance and talk to them",
+          "examples": [
+            "Maybe we'll meet again some time. ",
+            "Did you meet anyone in town? ",
+            "I've never met anyone like her. ",
+            "A year or so later I happened to meet him again. ",
+            "I hope we'll meet again soon. "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424aaba83600bac6b3b8e28"
+      },
+      "data-hw": "pair",
+      "data-ox3000": "a1",
+      "data-ox5000": "a1",
+      "url-id": "pair_1",
+      "pos": "noun",
+      "belong-to": "a1",
+      "senses": {
+        "sense1": {
+          "define": "two things of the same type, especially when they are used or worn together",
+          "examples": [
+            "a pair of shoes/boots  ",
+            "a pair of gloves/earrings ",
+            "She pulled on the pair of socks he handed her. ",
+            "a huge pair of eyes ",
+            "A pair of hands grasped her shoulders. ",
+            "a pair of aces/kings (= two playing cards that have the same value)  ",
+            "The winner will receive a pair of tickets to Reykjavik. ",
+            "The vase is one of a matching pair . ",
+            "Vermeer painted the two pictures as a pair. "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424aac383600bac6b3b8e7e"
+      },
+      "data-hw": "perfect",
+      "data-ox3000": "a1",
+      "data-ox5000": "a1",
+      "url-id": "perfect_1",
+      "pos": "adjective",
+      "belong-to": "a1",
+      "senses": {
+        "sense1": {
+          "define": "having everything that is necessary; complete and without faults or weaknesses",
+          "examples": [
+            "in perfect condition ",
+            "He smiled, revealing a perfect set of teeth. ",
+            "Well I'm sorry—but nobody's perfect  (= used when somebody has criticized you) . ",
+            " In a perfect world , everybody would have everything they needed. ",
+            "What's your idea of the perfect partner? "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424aae183600bac6b3b8f89"
+      },
+      "data-hw": "product",
+      "data-ox3000": "a1",
+      "data-ox5000": "a1",
+      "url-id": "product",
+      "pos": "noun",
+      "belong-to": "a1",
+      "senses": {
+        "sense1": {
+          "define": "a thing that is grown, produced or created, usually for sale",
+          "examples": [
+            "food/agricultural/software products ",
+            "He has eliminated dairy products from his diet. ",
+            "This product contains nuts. ",
+            "The coating could appear in consumer products within five years. ",
+            "The company sells its products around the world. ",
+            "We are increasingly likely to buy products online. ",
+            "Where did you purchase the product ? ",
+            "The cooperative helps local farmers successfully market their farm products . ",
+            "It is the responsibility of the industry to produce safe products . ",
+            "The company has been developing the product for years. ",
+            "investment in product development  ",
+            "We have just launched a new product on to the market. ",
+            "The store offers a wide range of products . ",
+            "She was very happy with the finished product . ",
+            "The bank offers a whole range of financial products and services. ",
+            "We need new product to sell (= a new range of products) . "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424ab7383600bac6b3b9481"
+      },
+      "data-hw": "this",
+      "data-ox3000": "b1",
+      "data-ox5000": "b1",
+      "url-id": "this_2",
+      "pos": "adverb",
+      "belong-to": "b1",
+      "senses": {
+        "sense1": {
+          "define": "to this degree; so",
+          "examples": [
+            "It's about this high (= as high as I am showing you with my hands) . ",
+            "I didn't think we'd get this far. ",
+            "They never expected to be quite this successful. ",
+            "I honestly can't remember when I last enjoyed a film this much. "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424ab7383600bac6b3b9482"
+      },
+      "data-hw": "this",
+      "data-ox3000": "a1",
+      "data-ox5000": "a1",
+      "url-id": "this_1",
+      "pos": "determiner",
+      "belong-to": "a1",
+      "senses": {
+        "sense1": {
+          "define": "used to refer to a particular person, thing or event that is close to you, especially compared with another",
+          "examples": [
+            "How long have you been living in this country? ",
+            "Well, make up your mind. Which do you want? This one or that one? ",
+            "I think you'll find these more comfortable than those. ",
+            "Is this your bag? "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424ab7383600bac6b3b9483"
+      },
+      "data-hw": "this",
+      "data-ox3000": "a1",
+      "data-ox5000": "a1",
+      "url-id": "this_1#this_sng_1",
+      "pos": "pronoun",
+      "belong-to": "a1",
+      "senses": {
+        "sense1": {
+          "define": "used to refer to a particular person, thing or event that is close to you, especially compared with another",
+          "examples": [
+            "How long have you been living in this country? ",
+            "Well, make up your mind. Which do you want? This one or that one? ",
+            "I think you'll find these more comfortable than those. ",
+            "Is this your bag? "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424aba283600bac6b3b964a"
+      },
+      "data-hw": "which",
+      "data-ox3000": "a1",
+      "data-ox5000": "a1",
+      "url-id": "which_1",
+      "pos": "determiner",
+      "belong-to": "a1",
+      "senses": {
+        "sense1": {
+          "define": "used in questions to ask somebody to be exact about one or more people or things from a limited number",
+          "examples": [
+            "Which is better exercise—swimming or tennis? ",
+            "Which way is the wind blowing? "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424aba283600bac6b3b964b"
+      },
+      "data-hw": "which",
+      "data-ox3000": "a1",
+      "data-ox5000": "a1",
+      "url-id": "which_1",
+      "pos": "pronoun",
+      "belong-to": "a1",
+      "senses": {
+        "sense1": {
+          "define": "used in questions to ask somebody to be exact about one or more people or things from a limited number",
+          "examples": [
+            "Which is better exercise—swimming or tennis? ",
+            "Which way is the wind blowing? "
+          ]
+        }
+      }
+    }
+  ],
+
+  "schedule": [
+    {
+      "_id": {
+        "$oid": "6424a94283600bac6b3b7ff9"
+      },
+      "data-hw": "adult",
+      "data-ox3000": "a2",
+      "data-ox5000": "a2",
+      "url-id": "adult_2",
+      "pos": "adjective",
+      "belong-to": "a2",
+      "senses": {
+        "sense1": {
+          "define": "fully grown or developed",
+          "examples": [
+            "preparing young people for adult life  ",
+            "He was a healthy young adult male . ",
+            "the adult population ",
+            "adult monkeys ",
+            "She spent her entire adult life caring for others. "
+          ]
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6424aa8283600bac6b3b8c0a"
+      },
+      "data-hw": "many",
+      "data-ox3000": "a1",
+      "data-ox5000": "a1",
+      "url-id": "many",
+      "pos": "determiner",
+      "belong-to": "a1",
+      "senses": {
+        "sense1": {
+          "define": "used with plural nouns and verbs, especially in negative sentences or in more formal English, to mean ‘a large number of’. Also used in questions to ask about the size of a number, and with ‘as’, ‘so’ and ‘too’.",
+          "examples": [
+            "We don't have very many copies left. ",
+            "You can't have one each. We haven't got many. ",
+            "Many people feel that the law should be changed. ",
+            "Many of those present disagreed. ",
+            " How many children do you have? ",
+            "There are too many mistakes in this essay. ",
+            "He made ten mistakes in as many  (= in ten) lines. ",
+            "New drivers have twice as many accidents as experienced drivers. ",
+            "Don't take so many . ",
+            "I've known her for a great many  (= very many) years. ",
+            "Even if one person is hurt that is one too many . ",
+            "It was one of my many mistakes. ",
+            "a many-headed monster "
+          ]
+        }
+      }
+    }
+  ],
+
+  "learningProgress":[]
+}

@@ -1,0 +1,12 @@
+.flashcard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+.buttonGroup {
+  display: flex;
+  justify-content: space-evenly;
+  width: 18rem;
+}
